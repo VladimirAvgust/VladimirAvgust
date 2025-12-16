@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <img src="" width="100"/>
+    <div id="badges">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
+    </div>
+</div>
 <!--
 **VladimirAvgust/VladimirAvgust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
