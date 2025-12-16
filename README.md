@@ -1,7 +1,11 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFvdml6ajZqdmk0bjFidzIweDl4N3Q5OWo3NzRrcWhqN2Z2OWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Zaoyr0zW9NJLiF6Pv/giphy.gif" width="100"/>
-  <h1> Hi there 👋 </h1>
+  <h1> Привет) </h1>
 </div>
+---
+### 👨‍💻: About Me:
+Добрый день!<br>
+
 <!--
 **VladimirAvgust/VladimirAvgust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
